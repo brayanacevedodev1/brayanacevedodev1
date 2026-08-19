@@ -2,7 +2,7 @@
 <h3 align="center">📊 Data Science Student | Convirtiendo datos en decisiones</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Python+%7C+SQL+%7C+Excel+%7C+Google+Sheets;Aprendiendo+Power+BI+y+GitHub;Convirtiendo+datos+en+historias" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Python+%7C+SQL+%7C+Excel+%7C+Google+Sheets;Dispuesto+a+aprender+para+mejorar!;Convirtiendo+datos+en+historias" alt="Typing SVG" />
 </p>
 
 ---
